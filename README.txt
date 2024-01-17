@@ -1,1 +1,2 @@
-Chạy database trước khi cài đặt
+Ứng dụng winform hỗ trợ quản lý quản lẩu với ngôn ngữ c# và sự hỗ trợ của entity framework, report viewer...
+Chạy database trước khi cài đặt file exe hoặc msi
